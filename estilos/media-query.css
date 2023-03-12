@@ -2,7 +2,14 @@
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
   body {
-    background-image: linear-gradient(to top, #475953,#CEE8F2, #C8C7D9, #A62424, #591D28);
+    background-image: linear-gradient(
+      to top,
+      #475953,
+      #cee8f2,
+      #c8c7d9,
+      #a62424,
+      #591d28
+    );
   }
   section#login {
     width: 80vw;
@@ -19,7 +26,6 @@
     float: right;
     width: 70%;
   }
-  
 }
 
 @media screen and (min-width: 992px) {
